@@ -192,8 +192,7 @@ p1 {
     background-repeat: no-repeat;
     background-position: center center;
 
-    padding-top: 6%;
-    padding-bottom: 6%;
+  
 }
 
 .granAce {
@@ -371,4 +370,15 @@ p1 {
 .texto{  
     padding: 78px 110px 39px 110px;
 
+}
+
+.articleSubtitle {
+    font-family: 'Impact';
+    text-decoration: none;
+    color: white;
+
+    font-size: 32px;
+
+    text-align: left;
+    padding-bottom: 5%;
 }
