@@ -294,3 +294,58 @@ p1 {
     padding: 30px 31px;
     text-decoration: none;
 }
+
+.bot {
+    background-color: #0078be;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.botImage {
+
+    width: 50px;
+    padding-right: 7%;
+}
+
+.botText{
+    font-family: Verdana;
+    color: white;
+    font-size: 25px;
+
+    margin-bottom: 5%;
+}
+
+.logoBoxBot {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    width: 20%;
+    margin-right: 5%;
+}
+
+.socials {
+    display: flex;
+
+    flex-direction: column;
+    padding-left: 5%;
+}
+
+
+
+
+.logoBot{
+    margin-left: 10%;
+    height: 90px;
+
+}
