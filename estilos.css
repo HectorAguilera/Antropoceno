@@ -380,5 +380,38 @@ p1 {
     font-size: 32px;
 
     text-align: left;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
+}
+
+.articleBody{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+    padding-bottom: 10%;
+}
+
+.articleImage{
+width: 2000px;
+
+}
+
+.subarticleText {
+line-height: 1.5;
+padding-left: 20px;
+
+}
+
+.botonBot{
+    background-color: #0078be;
+    border-radius: 40px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 30px 31px;
+    text-decoration: none;
+    margin-left: 35%;
+
 }
